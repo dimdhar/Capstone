@@ -1,0 +1,12 @@
+name: coursera_data_science_capstone__final_project_submission
+title: Coursera Data Science Capstone Final Project Submission
+username:
+account: dimpledhar
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 520051
+bundleId: 1648481
+url: https://dimpledhar.shinyapps.io/coursera_data_science_capstone__final_project_submission/
+when: 1539812354.24338
+asMultiple: FALSE
+asStatic: FALSE
